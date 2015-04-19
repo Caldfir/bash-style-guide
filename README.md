@@ -15,7 +15,7 @@ Aesthetics
 
 ### Tabs / Spaces
 
-tabs.
+2 spaces.
 
 ### Semicolons
 
